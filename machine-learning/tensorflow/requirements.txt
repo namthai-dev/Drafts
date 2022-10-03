@@ -1,0 +1,9 @@
+tensorflow==2.10.0
+scikit-learn==1.1.2
+imbalanced-learn==0.9.1
+matplotlib==3.6.0
+numpy==1.23.3
+pandas==1.5.0
+jupyter-core==4.11.1
+jupyter_client==7.3.5
+ipykernel==6.16.0
